@@ -10,7 +10,7 @@
 
 **Full demo (35 seconds):** first run → settle in → meditate → save → settings and Apple Health → progress.
 
-<!-- Paste the user-attachments video URL here on its own line (showcase-playbook.md step 6). -->
+https://github.com/user-attachments/assets/484e22de-9df4-490b-b0b9-85d9e413f25b
 
 ## Purpose
 

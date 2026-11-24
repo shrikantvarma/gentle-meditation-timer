@@ -14,9 +14,16 @@ https://github.com/user-attachments/assets/484e22de-9df4-490b-b0b9-85d9e413f25b
 
 ## Purpose
 
-**Hypothesis:** meditation habits break after one bad day, because streak apps turn a missed day back into zero. Progress that forgives keeps people coming back.
+**Hypothesis:** a meditation practice optimised for focus retention and awareness sticks when it's simple, the target comes from research rather than willpower, and progress fits the week people actually have.
 
-Most habit apps pull you back through fear of losing a streak. That works on people who never miss and punishes exactly the person you most want back: the one who just did.
+Most habit apps pull you back through fear of losing a streak. That works on people who never miss, and punishes exactly the person you most want back: the one who just did.
+
+The design follows four principles:
+
+- **Keep it simple.** Pick 3, 5 or 10 minutes and begin. The first meditation is guided.
+- **Opinionated, and grounded in research.** Work from Amishi Jha's lab at the University of Miami points to about [12 minutes a day, five days a week](https://www.mindful.org/find-your-focus-own-your-attention-in-12-minutes-a-day/), so 12 minutes is the default goal.
+- **Start small and grow on its own.** "Grow my practice" adds a minute after every three days of practice, up to 12. A missed day never resets the count.
+- **Your week, not a perfect week.** Set a weekly goal of a few days, and choose how many rest days the daily streak allows. Progress only goes up.
 
 ## What it does
 
@@ -62,7 +69,8 @@ Live on the App Store since November 2026. Too early for usage numbers, so none 
 |---|---|---|
 | Users who meditate again within a week of missing a day | The core hypothesis | Pending |
 | 30-day retention | Whether forgiving progress keeps the habit going | Pending |
-| Meditations that use "Grow my practice" to step up | Whether gradual growth works | Pending |
+| People on "Grow my practice" who reach 12 minutes | Whether starting small and growing reaches the research-backed target | Pending |
+| Users who report better focus after 4 weeks | Whether the practice improves focus retention and awareness | Pending |
 
 ## What I learned
 
